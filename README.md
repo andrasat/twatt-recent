@@ -16,7 +16,7 @@ npm start
 `http://localhost:3000/twit/search?q=YOUR_SEARCH_HERE`
 
 #### Recent Tweets
-`http://localhost:3000/twit/recent?name=TWITTER` OR
+`http://localhost:3000/twit/recent?name=TWITTER_NAME`
 
 #### Recent Tweets with count
-`http://localhost:3000/twit/recent?name=TWITTER&count=NUMBER`
+`http://localhost:3000/twit/recent?name=TWITTER_NAME&count=NUMBER`
